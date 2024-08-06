@@ -2,5 +2,6 @@ public class Java {
     public static void main (string[]args){
         system.out.println("Hola gente xd")
         system.out.println("Es mi primer archivo para hacer commits")
+        system.out.println("Tal vez haya algunos errores...")
     }
 }
